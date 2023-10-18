@@ -1,0 +1,35 @@
+{
+    "Banner" : [
+       {
+            "id" : 1,
+            "Promote":"Get up to 35% OFF" ,
+            "Title": "ស្លាកន្សែង ៖ គឺជាម្លូស្លាដែលវេចនឹងកន្សែងធំៗ ប្រើក្នុងពិធីដណ្តឹងកូនស្រីអោយកូនប្រុស ។",
+            "Avatar": "https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t39.30808-6/348343754_573601998220986_5352503300712237005_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeGMBdh-98Dt_hi-qOjfhLRlcAekNitSa9FwB6Q2K1Jr0WQ1utI7nC_wihMs0X3-dCuRBtJUhZYd7OyKEaxGTb7X&_nc_ohc=eLjyi7U27cMAX-8k4uH&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=00_AfBfA4VaLnEwoDxLE3kW-wEB8oCLlJ4t9wWaUKtexKBtZg&oe=650AD6CF",
+            "Other": "Shop Now"
+        },
+        {
+            "id" : 2,
+            "Promote":"Get up to 35% OFF" ,
+            "Title": "Happiness plant... is having more and more",
+            "Avatar": "https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t39.30808-6/348270343_704991297960268_8818732688734508490_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeGEvErtD-hNNJA7W_rW5AdEY2Eu-86prlJjYS77zqmuUkdYjsh2by01UrfKx_3-d-CfO7v4yhiEkje0ewLmpCZ8&_nc_ohc=Tnxd_TKoPG8AX921s_C&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=00_AfBu_2rpDmwGqeX3S_4GX6aeAiYjMcmn7_W84R9Qz-ljPA&oe=650BA194",
+            "Other": "Shop Now"
+        }
+        ,
+        {
+            "id" : 3,
+            "Promote":"Get up to 35% OFF" ,
+            "Title": "Happiness plant... is having more and more",
+            "Avatar": "https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t39.30808-6/348579278_1691734051289180_6461243830258416513_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeHww4cTWbkHjPD_j7Pqa68Y0MiQc53dPAbQyJBznd08Bld_ZDGkxA0ckdFCloYWqbnP7Qy4nHjfZTNd1W56DY-Y&_nc_ohc=IzpS6SCl-xQAX_Qpp8X&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=00_AfCBTQ9OufU_9Ojmr12iAfUE4owqg2OooM3IPnxSqxLf3g&oe=650AA065",
+            "Other": "Shop Now"
+        }
+        ,
+        {
+            "id" : 4,
+            "Promote":"Get up to 35% OFF" ,
+            "Title": "Happiness plant... is having more and more",
+            "Avatar": "https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t39.30808-6/348450835_996102081409462_4467250095375050046_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeEBkf9ZV50X24VF62VWB2EbrQaRpmo5ssCtBpGmajmywGxUnPSjKY0rvdWcwTlTnUg9Gyb-QfvBYexXTAdxAus4&_nc_ohc=87_VRiFVkI8AX-DKG2D&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=00_AfD0zemTcWVvj5TSD-6F8VxiZuPVNbCI5oCb_nyyHurPwg&oe=650C1B3B",
+            "Other": "Shop Now"
+        }
+    ]
+  
+}
